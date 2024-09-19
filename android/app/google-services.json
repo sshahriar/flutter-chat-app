@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "562917742570",
+    "project_id": "chat-app-d178d",
+    "storage_bucket": "chat-app-d178d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562917742570:android:90e67d9991e3ee7aa88493",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJ87v0ShD-urr6Te4NaxGyC8CtQnFrh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562917742570:android:7ae514fd63e8cdeaa88493",
+        "android_client_info": {
+          "package_name": "com.example.whats_app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJ87v0ShD-urr6Te4NaxGyC8CtQnFrh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562917742570:android:625c5e01748d40f4a88493",
+        "android_client_info": {
+          "package_name": "com.test_chat1.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJ87v0ShD-urr6Te4NaxGyC8CtQnFrh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562917742570:android:af98960ae6c1116ba88493",
+        "android_client_info": {
+          "package_name": "com.whats_app_ui.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJ87v0ShD-urr6Te4NaxGyC8CtQnFrh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
