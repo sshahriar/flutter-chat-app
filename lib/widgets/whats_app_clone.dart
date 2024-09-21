@@ -32,7 +32,7 @@ class _WhatsAppCloneState extends State<WhatsAppClone> {
         actions: [
           IconButton(
               onPressed: () {}, icon: const Icon(Icons.camera_alt_outlined)),
-          IconButton(onPressed: () {}, icon: const Icon(Icons.search)),
+          IconButton(onPressed: () => throw Exception(), icon: const Icon(Icons.search)),
           PopupMenuButton<String>(
             onSelected: (value) {
               // Handle the selected item here
